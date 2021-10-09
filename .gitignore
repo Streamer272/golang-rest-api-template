@@ -1,0 +1,8 @@
+# ide files
+/.idea
+/.vscode
+/.atom
+/.vs
+
+# logs
+log/*.log
